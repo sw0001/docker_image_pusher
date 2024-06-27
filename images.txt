@@ -1,4 +1,4 @@
 whyour/qinglong:latest
 chigusa/bililive-go:latest
 wordpress:latest
-mysql:latest
+mysql:5.6
