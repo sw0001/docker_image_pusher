@@ -1,3 +1,4 @@
 whyour/qinglong:latest
 chigusa/bililive-go:latest
 mysql:5.7
+wordpress:5.8
